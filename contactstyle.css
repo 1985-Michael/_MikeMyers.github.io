@@ -558,7 +558,7 @@ p:hover {
                                                             
                                                                 
                                                             } 
-                                                        }  @media screen and (max-width: 320px) {
+                                                        }  @media screen and (max-width: 428px) {
                 
                                                             .container {
                                                                 margin-top: -1.2vh;
@@ -588,7 +588,7 @@ p:hover {
                                                                                 }
                                                                                 
                                                                                 .content {
-                                                                                    grid-column: 1/14;
+                                                                                    grid-column: 3/12;
                                                                                     grid-row: 7;
                                                                                     background-color: white;
                                                                                     padding: 20px;
@@ -646,3 +646,181 @@ p:hover {
                                                                             
                                                                                 
                                                                             } 
+
+                                                                        }  @media screen and (max-width: 406px) {
+                
+                                                                            .container {
+                                                                                margin-top: -1.2vh;
+                                                                                margin-left: -0.7vh;
+                                                                                margin-right: -0.7vh;
+                                                                            }
+                                                                            
+                                                                            .header {
+                                                                                 grid-column: 1/14;
+                                                                                 grid-row: 2;
+                                                                                 background-color: white;
+                                                                                 padding: 10px;
+                                                                                 border-width: 0px 0px 5px 0px;
+                                                                                 border-style: solid;
+                                                                                 border-color: #4aaaa5;
+                                                                                                    
+                                                                                                
+                                                                                                }
+                                                                                                
+                                                                                                .header nav {
+                                                                                                    float: none;
+                                                                                                    display: block;
+                                                                                                    text-align: center;
+                                                                                                    text-decoration: none;
+                                                                                                    color: #777777;
+                                                                                                   
+                                                                                                }
+                                                                                                
+                                                                                                .content {
+                                                                                                    grid-column: 2/14;
+                                                                                                    grid-row: 7;
+                                                                                                    background-color: white;
+                                                                                                    padding: 20px;
+                                                                                                    height: 590px;
+                                                                                                    width: 306px;
+                                                                                                    box-shadow: 9px 10px 30px -5px darkcyan;
+                                                                                                    font-size: 14.5px;    
+                                                                                                
+                                                                                                }
+                                                                                                
+                                                                                                form {
+                                                                                                    margin: 30px 20px 0px 7px;
+                                                                                                }        
+                                                                                
+                                                                                                .input-field {
+                                                                                                    width: 255px;
+                                                                                                    height: 90px;
+                                                                                                    margin-top: 7px;
+                                                                                                    padding-left: 20px;
+                                                                                                    padding-right: 10px;
+                                                                                                    border: 1.5px solid; 
+                                                                                                    border-color: #4aaaa5;
+                                                                                                    border-radius: 10px;
+                                                                                                    outline: none;
+                                                                                                }
+                                                                                
+                                                                                                .btn {
+                                                                                                    border-radius: 10px;
+                                                                                                    color: white;
+                                                                                                    margin-left: -6px;
+                                                                                                    margin-top: 18px;
+                                                                                                    padding: 7px;
+                                                                                                    background-color: #4aaaa5;
+                                                                                                    font-size: 15px;
+                                                                                                    border: none;
+                                                                                                    cursor: pointer;
+                                                                                                }
+                                                                                            
+                                                                                                A {
+                                                                                                    width: 60px;
+                                                                                                    float: none;
+                                                                                                    margin: 7px;
+                                                                                                     
+                                                                                                }
+                                                                                                .name {
+                                                                                                    grid-column: 1/14;
+                                                                                                    grid-row: 1;
+                                                                                                    background-color: #4aaaa5;
+                                                                                                    padding: 10px;
+                                                                                                    height: 25px;
+                                                                                                    font-size: 30px;
+                                                                                                    line-height: 32px;
+                                                                                                   
+                                                                                                }
+                                                                                            
+                                                                                                
+                                                                                            } 
+
+                                                                        }  @media screen and (max-width: 358px) {
+                
+                                                                            .container {
+                                                                                margin-top: -1.2vh;
+                                                                                margin-left: -0.7vh;
+                                                                                margin-right: -0.7vh;
+                                                                            }
+                                                                            
+                                                                            .header {
+                                                                                 grid-column: 1/14;
+                                                                                 grid-row: 2;
+                                                                                 background-color: white;
+                                                                                 padding: 10px;
+                                                                                 border-width: 0px 0px 5px 0px;
+                                                                                 border-style: solid;
+                                                                                 border-color: #4aaaa5;
+                                                                                                    
+                                                                                                
+                                                                                                }
+                                                                                                
+                                                                                                .header nav {
+                                                                                                    float: none;
+                                                                                                    display: block;
+                                                                                                    text-align: center;
+                                                                                                    text-decoration: none;
+                                                                                                    color: #777777;
+                                                                                                   
+                                                                                                }
+                                                                                                
+                                                                                                .content {
+                                                                                                    grid-column: 1/14;
+                                                                                                    grid-row: 7;
+                                                                                                    background-color: white;
+                                                                                                    padding: 20px;
+                                                                                                    height: 590px;
+                                                                                                    width: 297px;
+                                                                                                    box-shadow: 9px 10px 30px -5px darkcyan;
+                                                                                                    font-size: 14.5px;    
+                                                                                                
+                                                                                                }
+                                                                                                
+                                                                                                form {
+                                                                                                    margin: 30px 20px 0px 7px;
+                                                                                                }        
+                                                                                
+                                                                                                .input-field {
+                                                                                                    width: 255px;
+                                                                                                    height: 90px;
+                                                                                                    margin-top: 7px;
+                                                                                                    padding-left: 20px;
+                                                                                                    padding-right: 10px;
+                                                                                                    border: 1.5px solid; 
+                                                                                                    border-color: #4aaaa5;
+                                                                                                    border-radius: 10px;
+                                                                                                    outline: none;
+                                                                                                }
+                                                                                
+                                                                                                .btn {
+                                                                                                    border-radius: 10px;
+                                                                                                    color: white;
+                                                                                                    margin-left: -6px;
+                                                                                                    margin-top: 18px;
+                                                                                                    padding: 7px;
+                                                                                                    background-color: #4aaaa5;
+                                                                                                    font-size: 15px;
+                                                                                                    border: none;
+                                                                                                    cursor: pointer;
+                                                                                                }
+                                                                                            
+                                                                                                A {
+                                                                                                    width: 60px;
+                                                                                                    float: none;
+                                                                                                    margin: 7px;
+                                                                                                     
+                                                                                                }
+                                                                                                .name {
+                                                                                                    grid-column: 1/14;
+                                                                                                    grid-row: 1;
+                                                                                                    background-color: #4aaaa5;
+                                                                                                    padding: 10px;
+                                                                                                    height: 25px;
+                                                                                                    font-size: 30px;
+                                                                                                    line-height: 32px;
+                                                                                                   
+                                                                                                }
+                                                                                            
+                                                                                                
+                                                                                            } 
